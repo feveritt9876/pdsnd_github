@@ -24,7 +24,7 @@ def get_filters():
     while True:
         city = input('Which city would you like to see data for? \nPlease choose from Chicago, New York City or Washington:  ').lower()
         if city not in cities:
-            print('Sorry, this is not one of the cities avaliable in the dataset. Please try again!')
+            print('Sorry, this city os not available. Please try again!')
         else:
             break
 
@@ -33,7 +33,7 @@ def get_filters():
     while True:
         month = input('Which month would you like to see data for? \nJanuary, February, March, April, May, June, or all?:  ').lower()
         if month not in months:
-            print('Sorry, this month is not in our database. Please try again!')
+            print('Sorry, this month is not available. Please try again!')
         else:
             break
 
