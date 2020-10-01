@@ -12,4 +12,5 @@ Describe what your project is about and what it does
 Include the files used
 
 ### Credits: blog post: https://docs.github.com/en/free-pro-team@latest/github/using-git/ignoring-files
+https://www.w3schools.com/python/python_while_loops.asp
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
