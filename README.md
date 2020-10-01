@@ -5,10 +5,10 @@ Include the date you created this project and README file.
 ### Project Title: Interactive bikeshare data analysis
 Replace the Project Title
 
-### Description:
+### Description: This project interface with the user to show descriptive statistics of bikeshare data from chosen city, Washington, New York City or Chicago
 Describe what your project is about and what it does
 
-### Files used:
+### Files used: washington.csv, new_york_city.csv, chicago.csv
 Include the files used
 
 ### Credits:
