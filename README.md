@@ -11,5 +11,5 @@ Describe what your project is about and what it does
 ### Files used: washington.csv, new_york_city.csv, chicago.csv
 Include the files used
 
-### Credits:
+### Credits: blog post: https://docs.github.com/en/free-pro-team@latest/github/using-git/ignoring-files
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
