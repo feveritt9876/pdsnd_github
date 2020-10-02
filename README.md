@@ -1,16 +1,15 @@
 ### Date created project created: 2/10/2020
-Include the date you created this project and README file.
-
 
 ### Project Title: Interactive bikeshare data analysis
-Replace the Project Title
 
-### Description: This project interface with the user to show descriptive statistics of bikeshare data from chosen city, Washington, New York City or Chicago
-Describe what your project is about and what it does
+### Description:
+This project interface with the user to show descriptive statistics of bikeshare data from chosen city, Washington, New York City or Chicago
 
-### Files used: washington.csv, new_york_city.csv, chicago.csv
-Include the files used
+### Files used:
+washington.csv
+new_york_city.csv
+chicago.csv
 
-### Credits: blog post: https://docs.github.com/en/free-pro-team@latest/github/using-git/ignoring-files
+### Credits: blog post:
+https://docs.github.com/en/free-pro-team@latest/github/using-git/ignoring-files
 https://www.w3schools.com/python/python_while_loops.asp
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
