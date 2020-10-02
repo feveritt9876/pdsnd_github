@@ -1,4 +1,4 @@
-    #PROJECT Title: Interactive biikershare data analysis 
+    #PROJECT Title: Interactive biikershare data analysis
 import time
 import pandas as pd
 import numpy as np
@@ -147,9 +147,6 @@ def trip_duration_stats(df):
     mean_travel_time= df['Trip Duration'].mean()
     print('Mean travel time:', mean_travel_time)
 
-    #display max travel times
-    max_travel_time= df['Trip Duration'].max()
-    print('Maximum travel time:', max_travel_time)
 
     # display min travel time
     min_travel_time= df['Trip Duration'].min()
